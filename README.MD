@@ -1,5 +1,7 @@
 # Projeto Venda Açaí
 
+Projeto feito para a vaga de desenvolvedor backend.
+
 ## Tecnologias Utilizadas
 
 - Java 8
